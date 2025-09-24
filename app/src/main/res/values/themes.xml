@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GetitDone2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!--        &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+        <!--        <item name="android:statusBarColor">@color/white</item>-->
+        <!--        <item name="android:navigationBarColor">@color/white</item>-->
+    </style>
+
+    <!-- TextAppearance style for EditText hint -->
+    <style name="HintTextAppearance">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="Theme.GetitDone2" parent="Base.Theme.GetitDone2" />
+</resources>

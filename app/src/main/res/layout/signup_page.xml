@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/backgroundColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/signUpTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create_account"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="@color/titleColor"
+            android:layout_marginBottom="60dp"/>
+
+        <EditText
+            android:id="@+id/emailSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/emailString"
+            android:inputType="textEmailAddress"
+            android:importantForAutofill="no"
+            android:layout_marginBottom="20dp"
+            android:padding="16dp"
+            android:background="@drawable/rectangular_edittext"
+            android:textColor="@color/textColor"
+            android:textColorHint="@color/hintColor"/>
+
+        <EditText
+            android:id="@+id/passwordSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password_at_least_6_characters"
+            android:inputType="textPassword"
+            android:layout_marginBottom="25dp"
+            android:padding="16dp"
+            android:background="@drawable/rectangular_edittext"
+            android:textColor="@color/textColor"
+            android:textColorHint="@color/hintColor"/>
+
+        <Button
+            android:id="@+id/signUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_upString"
+            android:gravity="center"
+            android:background="@drawable/gradient_button"
+            android:textColor="@color/buttonTextColor"
+            android:padding="10dp"
+            android:elevation="4dp"
+            android:textSize="18sp"
+            android:layout_marginBottom="25dp"/>
+    </LinearLayout>
+</RelativeLayout>

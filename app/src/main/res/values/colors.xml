@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bluish">#546471</color>
+    <color name="blue">#B4BFFF</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="titleColor">#333333</color>
+    <color name="textColor">#333333</color>
+    <color name="hintColor">#757575</color>
+    <color name="editTextBackground">#FFFFFF</color>
+    <color name="editTextBorder">#CCCCCC</color>
+    <color name="buttonBackground">#3F51B5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="buttonBorder">#303F9F</color>
+    <color name="linkColor">#3F51B5</color>
+    <color name="gradientStartColor">#42a5f5</color>
+    <color name="gradientEndColor">#1e88e5</color>
+
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white"
+    android:layout_gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="end"
+            android:layout_gravity="center_vertical"
+            android:foregroundGravity="center">
+
+            <ImageButton
+                android:id="@+id/back_to_home_page"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/back_to_home_page"
+                android:padding="0dp"
+                android:foregroundGravity="center"
+                android:layout_marginStart="2dp"
+                android:layout_gravity="start|center_vertical"
+                android:background="@android:color/transparent">
+            </ImageButton>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <ImageButton
+                android:id="@+id/saveTask"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/save_task"
+                android:padding="0dp"
+                android:layout_gravity="end|center_vertical"
+                android:foregroundGravity="center"
+                android:background="@android:color/transparent"
+                tools:ignore="ContentDescription" />
+        </LinearLayout>
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:layout_marginTop="35dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="5dp"
+        android:textColor="@color/black"
+        android:background="@android:color/transparent"
+        android:textSize="26sp"
+        android:singleLine="true"
+        android:textCursorDrawable="@drawable/blue_cursor"
+        android:textColorHint="#818181"
+        android:textStyle="bold"
+        android:textColorHighlight="@color/blue"
+        android:layout_gravity="center_vertical"
+        android:inputType="textNoSuggestions|textCapSentences"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginStart="10dp"
+            android:layout_gravity="start|center_vertical"
+            android:layout_marginTop="12dp">
+                <TextView
+                    android:id="@+id/taskMetaDataDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="#818181"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/taskMetaDataTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="#818181"
+                    android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:id="@+id/taskMetaDataSeparator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0.75dp"
+                android:textSize="12sp"
+                android:textColor="#818181"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:id="@+id/taskMetaDataLength"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:textColor="#818181"
+                android:layout_gravity="center_vertical"/>
+
+            <TextView
+                android:id="@+id/taskMetaDataCharacters"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:textColor="#818181"
+                android:layout_gravity="center_vertical"/>
+        </LinearLayout>
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/transparent"
+            android:gravity="top|start"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginBottom="5dp"
+            android:verticalScrollbarPosition="right"
+            android:scrollbars="vertical"
+            android:scrollbarStyle="outsideInset"
+            android:scrollbarDefaultDelayBeforeFade="@integer/material_motion_duration_short_1"
+            android:inputType="textMultiLine|textNoSuggestions|textCapSentences"
+            android:textColor="@android:color/black"
+            android:textCursorDrawable="@drawable/blue_cursor"
+            android:textSize="17sp"
+            android:textColorHighlight="@color/blue"
+            tools:ignore="Autofill" />
+</LinearLayout>
