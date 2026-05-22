@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790370103093",
+    "project_id": "getitdone-surely",
+    "storage_bucket": "getitdone-surely.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790370103093:android:f7e2634d01bcc5382b667c",
+        "android_client_info": {
+          "package_name": "com.example.getitdone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790370103093-vonr9br8g1ti1mmgk6o06rn2u4ae7580.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getitdone",
+            "certificate_hash": "3e832217e6ceecdcb7b31475b8092d694af89b46"
+          }
+        },
+        {
+          "client_id": "790370103093-eg5ndi7thc8hus4qbe4p5ngihrh4gdb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0JiNnVgiGm2NIgoOt9oXiaHrzkTEMqU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790370103093-eg5ndi7thc8hus4qbe4p5ngihrh4gdb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

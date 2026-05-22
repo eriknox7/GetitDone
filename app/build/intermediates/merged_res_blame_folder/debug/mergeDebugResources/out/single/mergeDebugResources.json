@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_circle_small.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\circle_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_add_notes.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\add_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_logo_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\logo_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\layout_login_page.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\layout\\login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_google_btn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\google_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\layout_item_view.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_delete_task.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\delete_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_save_task.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\save_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-anydpi-v26_app_logo.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-anydpi-v26\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.getitdone.app-debug-58:/mipmap-hdpi_app_logo_round.webp.flat",
+        "source": "com.example.getitdone.app-main-60:/mipmap-hdpi/app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_circle_large.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\circle_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_blue_dot.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\blue_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_rounded_edittext_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\rounded_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_back_btn_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\layout_create_task.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\layout\\create_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_item_view_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\item_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_auth_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\auth_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_cursor.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\layout_home_page.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\layout\\home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_green_dot.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\green_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_red_dot.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\red_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_input_active.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\input_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-anydpi-v26_app_logo_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-anydpi-v26\\app_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_back_to_home_page.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\back_to_home_page.xml"
+    },
+    {
+        "merged": "com.example.getitdone.app-debug-58:/mipmap-hdpi_app_logo.webp.flat",
+        "source": "com.example.getitdone.app-main-60:/mipmap-hdpi/app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.getitdone.app-debug-58:/navigation_nav_graph.xml.flat",
+        "source": "com.example.getitdone.app-main-60:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_blue_btn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\blue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_blue_cursor.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\blue_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\layout_signup_page.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\layout\\signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_rounded_textview_bg.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\rounded_textview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_logo_circle.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\logo_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\drawable_yellow_dot.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\drawable\\yellow_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.getitdone.app-debug-58:/mipmap-hdpi_app_logo_foreground.webp.flat",
+        "source": "com.example.getitdone.app-main-60:/mipmap-hdpi/app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-debug-58:\\mipmap-xhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.11.1\\com.example.getitdone.app-main-60:\\mipmap-xhdpi\\app_logo.webp"
+    }
+]
