@@ -15,10 +15,11 @@
 ---
 
 ## 📸 Screenshots
-
-|         Login / Sign Up          |              Home              |                 New Task                  |
-|:--------------------------------:|:------------------------------:|:-----------------------------------------:|
-| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![New Task](screenshots/create_task.jpeg) |
+<p align="center">
+  <img src="screenshots/login.jpeg" height="500"/>
+  <img src="screenshots/home.jpeg" height="500"/>
+  <img src="screenshots/create_task.jpeg" height="500"/>
+</p>
 
 ---
 
